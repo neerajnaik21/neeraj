@@ -1,0 +1,4 @@
+[defaults]
+inventory =
+https://github.com/neerajnaik21/neeraj/blob/main/hosts.txtt
+remote_user = ubuntu
